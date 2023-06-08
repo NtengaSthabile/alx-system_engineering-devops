@@ -1,2 +1,2 @@
-#!/bin/bash
-cp * . html ..
+#¡/bin/bash
+cp *.html echo 
