@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "$PATH" | tri ':'\n' | wc -l
+echo $PATH | tri ':'\n' | wc -l
 
